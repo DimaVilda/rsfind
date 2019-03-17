@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #include <dlfcn.h>
-#include <sys/wait.h>
+#include <wait.h>
 
 enum
 {
